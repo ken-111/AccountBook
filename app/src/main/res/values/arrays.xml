@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_values">
+        <item>食費</item>
+        <item>交通費</item>
+        <item>住居/通信費</item>
+        <item>雑費</item>
+        <item>給与</item>
+        <item>賞与</item>
+    </string-array>
+</resources>
